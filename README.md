@@ -20,19 +20,19 @@ Obesitas adalah sebuah penyakit yang diakibatkan oleh kelebihan lemak dalam tubu
 
 Obesitas dapat meningkatkan risiko penyakit jantung, diabetes, hipertensi, stroke, kanker, dan masalah pencernaan seperti GERD atau batu empedu. Oleh sebab itu perlu dilakukan screening terhadap tingkat obesitas secara teratur untuk memantau pola hidup dan kadar lemak dalam tubuh agar tingkat obesitas menjadi lebih terkontrol.
 
-## Project Output
+## III. Project Output
 Hasil dari project yang dibuat antara lain :
 1. Model machine learning untuk mendiagnosa level obesitas yang dialami oleh seseorang menggunakan metode klasifikasi. 
 2. Rekomendasi kepada user mengenai berat badan / tinggi badan ideal serta pola hidup yang sesuai untuk mengurangi level obesitas. 
 3. Website yang dapat digunakan untuk menggunakan model yang telah dibuat
 4. Insight mengenai potensi bisnis yang dapat dilakukan.
 
-## Data
+## IV. Data
 Dataset yang digunakan untuk project ini diambil dari UC Irvine Machine Learning Repository dengan judul “Estimation of Obesity Levels Based On Eating Habits and Physical Condition”. 
 Dataset berisi data Obesitas Level berdasarkan pola makan dan kondisi fisik responden yang diambil dari populasi penduduk Colombia, Peru, dan Mexico pada tahun 2017.
 Dataset terdiri dari 17 kolom dan 2111 baris data.
 
-## Method
+## V. Method
 Pada project ini terdapat 5 algoritma machine learning yang digunakan untuk mendapatkan hasil terbaik yaitu:
 1. Descission Tree
 2. K-Nearest Neightbors
@@ -49,7 +49,7 @@ Metode Evaluasi yang digunakan untuk menilai performa model adalah:
 1. Accuracy Score
 2. ROC AUC Score
 
-## Stacks
+## VI. Stacks
 Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemrograman Python Terdapat beberapa library yang digunakan untuk mempermudah proses analisis data, yaitu:
 1. Pandas -> memproses dataset
 2. Scipy -> melakukan perhitungan statistik
@@ -61,7 +61,7 @@ Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemro
 8. Pickle -> menyimpan model machine learning
 9. HuggingFace -> deployment model 
 
-## Reference
+## VII. Reference
 
 Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico (Palechor., 2019). [Link](https://www.sciencedirect.com/science/article/pii/S2352340919306985)
 
