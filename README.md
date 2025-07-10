@@ -76,4 +76,5 @@ Model Deployment dapat diakses pada link berikut:
 https://huggingface.co/spaces/prasetyoaji/Milestone2
 
 Gambar tampilan Hasil Web Deployemnt:
+
 ![Tampilan Program](./Screnshoot%20Program.PNG)
