@@ -63,17 +63,17 @@ Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemro
 
 ## Reference
 
-Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico (Palechor., 2019) [Link](https://www.sciencedirect.com/science/article/pii/S2352340919306985)
+Dataset for estimation of obesity levels based on eating habits and physical condition in individuals from Colombia, Peru and Mexico (Palechor., 2019). [Link](https://www.sciencedirect.com/science/article/pii/S2352340919306985)
 
-Skrining Obesitas dan Edukasi Dampak Obesitas pada Anak di SDN 49/IV Kota Jambi (Ekawati, dkk., 2020)[Link](https://garuda.kemdikbud.go.id/documents/detail/1944834) 
+Skrining Obesitas dan Edukasi Dampak Obesitas pada Anak di SDN 49/IV Kota Jambi (Ekawati, dkk., 2020). [Link](https://garuda.kemdikbud.go.id/documents/detail/1944834) 
 
-Aktivitas, Konsumsi Makanan, Faktor Fisiologis, dan Riwayat Obesitas Keluarga Kaitannya dengan Obesitas pada Pegawai (Okfiani, dkk., 2022)[Link](https://e-journal.unair.ac.id/AMNT/article/view/20060/22213) 
+Aktivitas, Konsumsi Makanan, Faktor Fisiologis, dan Riwayat Obesitas Keluarga Kaitannya dengan Obesitas pada Pegawai (Okfiani, dkk., 2022). [Link](https://e-journal.unair.ac.id/AMNT/article/view/20060/22213) 
 
 Dataset dapat diakses pada link berikut:
-https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition 
+[Dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition) 
 
 Model Deployment dapat diakses pada link berikut:
-https://huggingface.co/spaces/prasetyoaji/Milestone2
+[Aplikasi](https://huggingface.co/spaces/prasetyoaji/Milestone2) 
 
 Gambar tampilan Hasil Web Deployemnt:
 
