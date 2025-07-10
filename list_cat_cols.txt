@@ -1,0 +1,1 @@
+["Gender", "genetic_overweight", "Eating_High_Calories", "Eating_Vegi_Freq", "Eating_Snack_Freq", "SMOKE", "Calories_Monitoring", "Alcohol_Freq", "MTRANS"]
