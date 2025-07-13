@@ -51,15 +51,18 @@ Metode Evaluasi yang digunakan untuk menilai performa model adalah:
 
 ## VI. Stacks
 Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemrograman Python Terdapat beberapa library yang digunakan untuk mempermudah proses analisis data, yaitu:
-1. Pandas -> memproses dataset
-2. Scipy -> melakukan perhitungan statistik
-3. Seaborn -> menggambarkan visualisasi data
-4. Scikit-learn -> library machine learning
-5. CatBoost - library model catboosting
-6. Winsorizer -> proses normalisasi data
-7. Pipeline -> meringkas proses pengolahan data
-8. Pickle -> menyimpan model machine learning
-9. HuggingFace -> deployment model 
+
+| No. | Library | Fungsi |
+| --- | --- | ---|
+|1. | Pandas | Memproses dataset |
+|2. | Scipy | Melakukan perhitungan statistik |
+|3. | Seaborn | Menggambarkan visualisasi data |
+|4. | Scikit-learn | Library machine learning |
+|5. | CatBoost | Library model catboosting |
+|6. | Winsorizer | Proses normalisasi data |
+|7. | Pipeline | Meringkas proses pengolahan data |
+|8. | Pickle | Menyimpan model machine learning |
+|9. | HuggingFace -> deployment model |
 
 ## VII. Reference
 
