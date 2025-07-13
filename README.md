@@ -62,7 +62,7 @@ Proses pengolahan data dilakukan menggunakan aplikasi VSCode dengan bahasa pemro
 |6. | Winsorizer | Proses normalisasi data |
 |7. | Pipeline | Meringkas proses pengolahan data |
 |8. | Pickle | Menyimpan model machine learning |
-|9. | HuggingFace -> deployment model |
+|9. | HuggingFace | deployment model |
 
 ## VII. Reference
 
